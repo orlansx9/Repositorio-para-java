@@ -63,5 +63,9 @@ public class Automovil {
     public String toString() {
         return "Automovil{" + "marca=" + marca + ", subMarca=" + subMarca + ", modelo=" + modelo + ", color=" + color + '}';
     }
+
+    public void setSubmarca(String mustang) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
